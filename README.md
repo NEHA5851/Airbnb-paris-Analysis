@@ -1,5 +1,6 @@
 # Airbnb-paris-Analysis
 
+!<img width="480" height="320" alt="image" src="https://github.com/user-attachments/assets/c73f019c-4571-457c-8369-d957e46329bf" />
 
 !<img width="1425" height="950" alt="image" src="https://github.com/user-attachments/assets/1ed95183-0b38-478a-8d78-bfcc6c453b1d" />
 
