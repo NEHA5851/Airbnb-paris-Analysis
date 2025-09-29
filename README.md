@@ -104,7 +104,7 @@ Here are some key visualizations from the analysis:
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [MIT-LICENSE](MIT-LICENSE) file for details.
+This project is licensed under the MIT License - see the [MIT-LICENSE.txt](MIT-LICENSE.txt) file for details.
 
 ---
 
