@@ -1,7 +1,7 @@
 # Airbnb-paris-Analysis
 
 
-!<img width="1430" height="955" alt="image" src="https://github.com/user-attachments/assets/1ed95183-0b38-478a-8d78-bfcc6c453b1d" />
+!<img width="1425" height="950" alt="image" src="https://github.com/user-attachments/assets/1ed95183-0b38-478a-8d78-bfcc6c453b1d" />
 
 
 # 🏠 Airbnb Paris Analysis
