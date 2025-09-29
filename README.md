@@ -52,14 +52,16 @@ The analysis covers **data cleaning, exploratory data analysis (EDA), and insigh
 ## 📂 Project Structure
 
 ```
-├── data/                  # Raw & cleaned datasets
-├── notebooks/             # Jupyter notebooks
-├── images/                # Visualizations exported from notebooks
-├── requirements.txt       # Dependencies
-├── LICENSE                # License file (MIT)
-├── README.md              # Project overview (this file)
+├── data/                               # Raw & cleaned datasets
+├── notebooks/                          # Jupyter notebooks
+├── images/                             # Visualizations exported from notebooks
+  ├── paris_listings_growth.png
+│ ├── paris_price_by_locality.png
+│ └── regulation_impact_2017.png        
+├── Requirements.txt                    # Dependencies
+├── MIT-LICENSE.txt                     # License file (MIT)
+├── README.md                           # Project overview (this file)
 ```
-
 ---
 
 ## ⚙️ How to Run
