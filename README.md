@@ -1,6 +1,8 @@
 # Airbnb-paris-Analysis
 
 ![Stunning Paris Airbnb](https://media.timeout.com/images/106180468/image.jpg)
+<img width="1440" height="960" alt="image" src="https://github.com/user-attachments/assets/1ed95183-0b38-478a-8d78-bfcc6c453b1d" />
+
 
 # 🏠 Airbnb Paris Analysis
 
