@@ -13,25 +13,25 @@ The analysis covers **data cleaning, exploratory data analysis (EDA), and insigh
 
 ## 📌 Objectives
 
-* Understand Airbnb supply trends in Paris (2008–2021).
-* Analyze the impact of the **2017 rental regulations** on host participation.
-* Explore **locality-wise pricing patterns** and affordability.
-* Study the relationship between **accommodation capacity** and average price.
-* Provide **business insights & recommendations** for stakeholders.
+- 📈 Understand Airbnb supply trends in Paris (2008–2021)  
+- ⚖️ Analyze the impact of the **2017 rental regulations** on host participation  
+- 🌍 Explore **locality-wise pricing patterns** and affordability  
+- 🛏️ Study the relationship between **accommodation capacity** and average price  
+- 💡 Provide **business insights & recommendations** for stakeholders  
 
 ---
 
-## 📊 Key Insights
+## 📊🔑 Key Insights
 
-* **Rapid Growth (2008–2016):** Strong host entry and expansion of listings.
-* **Regulatory Shift (2017):** Significant slowdown in new hosts entering the market.
-* **Resilient Demand:** Despite fewer new listings, customer demand stayed stable.
-* **Pricing Trends:** Competition lowered prices pre-2017, but post-regulation supply constraints pushed prices upward.
-* **Locality Insights:** Central Paris commands premium prices, while outer neighborhoods attract budget travelers.
-
+- 🚀 **Rapid Growth (2008–2016):** Strong host entry and expansion of listings  
+- 📉 **Regulatory Shift (2017):** Significant slowdown in new hosts entering the market  
+- 📊 **Resilient Demand:** Despite fewer new listings, customer demand stayed stable  
+- 💵 **Pricing Trends:** Competition lowered prices pre-2017, but post-regulation supply constraints pushed prices upward  
+- 📍 **Locality Insights:** Central Paris commands premium prices, while outer neighborhoods attract budget travelers
+    
 ---
 
-## 🚀 Recommendations
+## 🚀💡 Recommendations
 
 * Focus on **premium central areas** while maintaining offerings in budget-friendly neighborhoods.
 * Implement **dynamic pricing** to balance supply-demand fluctuations.
@@ -43,10 +43,10 @@ The analysis covers **data cleaning, exploratory data analysis (EDA), and insigh
 
 ## 🛠️ Tech Stack
 
-* **Python** (pandas, numpy) – Data cleaning & processing
-* **Matplotlib / Seaborn** – Data visualization
-* **Jupyter Notebook** – Interactive analysis
-
+- 🐍 **Python** (pandas, numpy) – Data cleaning & processing  
+- 📊 **Matplotlib / Seaborn** – Data visualization  
+- 📒 **Jupyter Notebook** – Interactive analysis
+   
 ---
 
 ## 📂 Project Structure
@@ -115,7 +115,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🚀 Future Work
+## 🚀 🔮Future Work
 
 * Extend the analysis to other European cities for comparison.
 * Add predictive modeling to forecast Airbnb prices.
