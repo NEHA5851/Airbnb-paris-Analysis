@@ -1,6 +1,6 @@
 ## Airbnb-paris-Analysis
 
-!<img width="1425" height="950" alt="image" src="https://github.com/user-attachments/assets/1ed95183-0b38-478a-8d78-bfcc6c453b1d" />
+!<img https://revenue-hub.com/wp-content/uploads/2019/10/airbnb-france-paris-1024x568.jpg
 
 
 # 🏠 Airbnb Paris Analysis
